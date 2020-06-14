@@ -71,7 +71,6 @@ names(tidyData) = gsub('-freq()', 'Frequency', names(tidyData))
 
 #Creating a second, independent tidy data set with the average of each variable for each activity and each subject.
 FinalTidyData <- group_by(tidyData, tidyData$subjectNum, tidyData$activityNum)
-FinalTidyData <- summarise_all(tidyData, funs(mean))
 
 # Writing table to the 'FinalTidyData.txt' file
 write.table(FinalTidyData, "FinalTidyData.txt")
