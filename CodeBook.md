@@ -20,4 +20,6 @@ Downloaded the row dataset zip file and unziped it as the name `UCI HAR Dataset`
      * `subject_merged` merged from `subjectTrain` and `subjectTest` using `rbind()` function
      * `MergeAll` merged from `x_merged`, `y_merged` and `subject_merged` using `cbind()` function
 
-3. 
+3. Column names in the final Tidy dataset : 
+     * `code` contains the correct names for the `tidyData` dataset, which are applied to the column names stored in in accordance with the `activityNames`.
+     * `FinalTidyData.txt` file contains the final `tidyData` summarized dataset.
