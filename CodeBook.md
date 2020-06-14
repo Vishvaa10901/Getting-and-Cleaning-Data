@@ -22,4 +22,4 @@ Downloaded the row dataset zip file and unziped it as the name `UCI HAR Dataset`
 
 3. Column names in the final Tidy dataset : 
      * `code` contains the correct names for the `tidyData` dataset, which are applied to the column names stored in in accordance with the `activityNames`.
-     * `FinalTidyData.txt` file contains the final `tidyData` summarized dataset.
+     * `FinalTidyData1.txt` file contains the final `tidyData` summarized dataset.
