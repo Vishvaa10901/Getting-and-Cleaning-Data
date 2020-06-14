@@ -8,7 +8,8 @@
 **Submitted work :** 
 1. A tidy data set
 2. A link to a Github repository with your script for performing the analysis
-3. A code book that describes the variables, the data, and any transformations or work that were performed to clean up the data called CodeBook.md. 4. README.md in the repo with your scripts. This repo explains how all of the scripts work and how they are connected.
+3. A code book that describes the variables, the data, and any transformations or work that were performed to clean up the data called CodeBook.md. 
+4. README.md in the repo with all scripts. This repo explains how all of the scripts work and how they are connected.
 
 **Project Overview :** 
 
@@ -43,6 +44,13 @@ The code used to get and clean the row dataset and create a new tidy dataset is 
 9. Labeling the data set with descriptibe variable names
 10. Creating a second, independent tidy data set with the average of each variable for each activity and each subject.
 
+
+----------------------------------------------------------------------------------------
+
+
+#### Link of this Github repsitory for reference :
+
+[Getting and Cleaning data Project Coursera -- @Vishvaa10901](https://github.com/Vishvaa10901/Getting-and-Cleaning-Data)
 
 
 
